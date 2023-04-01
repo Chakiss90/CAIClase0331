@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using static CAIClase0331.Program;
 
 namespace CAIClase0331
 {
@@ -11,5 +12,7 @@ namespace CAIClase0331
         static void Main(string[] args)
         {
         }
+
     }
+
 }
